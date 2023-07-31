@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "492628502509",
+    "project_id": "flash-chat-3456e",
+    "storage_bucket": "flash-chat-3456e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492628502509:android:e4cb78ed71c91cf7abe9e4",
+        "android_client_info": {
+          "package_name": "com.chetan.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492628502509-611jqs514lfbdhd4jhteibl65dahhar1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9LiP9ZkTt2x2TywxEL1kwH4w1iVJgjA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492628502509-611jqs514lfbdhd4jhteibl65dahhar1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
